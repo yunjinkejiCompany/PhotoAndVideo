@@ -1,0 +1,33 @@
+{
+  "name": "photoandvideo",
+  "version": "0.9.0",
+  "description": "\n\t\tCordova plugin that for video and photo record.\n\t",
+  "cordova": {
+    "id": "photoandvideo",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listenblue/PhotoAndVideo.git"
+  },
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "video",
+    "photo",
+    "camera",
+    "custom",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "listen",
+  "license": "\n\t\tApache 2.0\n\t",
+  "bugs": {
+    "url": "https://github.com/listenblue/PhotoAndVideo/issues"
+  },
+  "homepage": "https://github.com/listenblue/photoandvideo#readme"
+}
