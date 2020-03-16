@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/listenblue/PhotoAndVideo.git"
+    "url": "git+https://github.com/yunjinkejiCompany/PhotoAndVideo.git"
   },
   "keywords": [
     "cordova",
@@ -27,7 +27,7 @@
   "author": "listen",
   "license": "\n\t\tApache 2.0\n\t",
   "bugs": {
-    "url": "https://github.com/listenblue/PhotoAndVideo/issues"
+    "url": "https://github.com/yunjinkejiCompany/PhotoAndVideo/issues"
   },
-  "homepage": "https://github.com/listenblue/photoandvideo#readme"
+  "homepage": "https://github.com/yunjinkejiCompany/PhotoAndVideo#readme"
 }
